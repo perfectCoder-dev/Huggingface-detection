@@ -230,17 +230,3 @@ course/      HF course chapters (3-9, 11)
   note = "[Online; accessed <today>]"
 }
 ```
-## Keep going
-
-If this was useful, the write-ups are where the reasoning gets explained at length:
-
-- **Companion Medium article** — [The Hugging Face API Is More Powerful Than Most Developers Realize — Here’s What You Can Actually Do With It](https://medium.com/towards-artificial-intelligence/the-hugging-face-api-is-more-powerful-than-most-developers-realize-heres-what-you-can-actually-5da841b7d44d)
-- **Medium profile** — [medium.com/@Pop123](https://medium.com/@Pop123)
-- **Hugging Face** — [pop123ux](https://huggingface.co/pop123ux)
-- **GitHub** — [@pop123-ux](https://github.com/pop123-ux), where the [LeNet-5 from scratch](https://github.com/pop123-ux/LeNet_5-from-scratch) project takes the same approach to a 1998 CNN paper
-
-Corrections and questions are welcome via issues — particularly on the Romanian QA evaluation, which is the part most in need of a second pair of eyes.
-
-## License
-
-MIT — see [LICENSE](LICENSE). Course-derived material remains subject to the [Hugging Face course's own licensing](https://github.com/huggingface/course).
